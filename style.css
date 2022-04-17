@@ -1,0 +1,36 @@
+h1:hover {
+            color: #F2637E; 
+}
+h1{ 
+			font-family: Ariel, anti-serif;
+
+}
+
+h2 {
+ color: #008AFF;
+ }
+body {
+ background: #f7def1;
+ }
+img {
+ width: 40%;
+ }
+iframe {
+ width: 40%;
+ }
+ img 2 {
+ width: 40%;
+ }
+ m {
+ font-family: Ariel, anti-serif;
+ font-size : 40px;
+ color :  #F28DB2;
+ }
+p {
+ font-family: Ariel, anti-serif;
+ font-size : 25px;
+ color :  #221A26;
+ }
+ a {
+ font-size : 30px;
+ }
